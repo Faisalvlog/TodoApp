@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205009329579",
+    "firebase_url": "https://testit-e2630-default-rtdb.firebaseio.com",
+    "project_id": "testit-e2630",
+    "storage_bucket": "testit-e2630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205009329579:android:e338cd6a800f7d7aab06ee",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205009329579-mfs9bhb730dgfcivsq7r47aolakn68hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67cDA2e_zs-NmMLQujtGGL70wpuwuSLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205009329579-mfs9bhb730dgfcivsq7r47aolakn68hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
